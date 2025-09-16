@@ -1,0 +1,58 @@
+[33mcommit bc6bdf8dcdd818a2d3ee5fd818ff0c63c63a891c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mMicrointeractions[m[33m, [m[1;31morigin/Microinteractions[m[33m)[m
+Author: mjk-hudson <majik.hudson@icloud.com>
+Date:   Tue Sep 16 16:35:41 2025 -0400
+
+    added the microinteractions.js file to the branch
+
+[33mcommit a503ba63e382da9315f3ac286f8921fca5b08907[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: mjk-hudson <83044152+mjk-hudson@users.noreply.github.com>
+Date:   Tue Sep 16 16:12:29 2025 -0400
+
+    Delete microinteractions.js
+
+[33mcommit b4e0b51d51a9f93b6654a9c7d4c11e32b0cd2c29[m
+Merge: eb5f124 be87b16
+Author: mjk-hudson <83044152+mjk-hudson@users.noreply.github.com>
+Date:   Tue Sep 16 15:21:59 2025 -0400
+
+    Merge pull request #1 from mjk-hudson/hover-and-microinteraction-features-for-page-elements
+    
+    Create microinteractions.js
+
+[33mcommit be87b167237ead7a09d22ec52c78cf3e13a06afe[m
+Author: mjk-hudson <83044152+mjk-hudson@users.noreply.github.com>
+Date:   Tue Sep 16 15:12:04 2025 -0400
+
+    Create microinteractions.js
+    
+    This file will hold the onhover mouse event code from a 3rd party javascript library as well as microinteractions
+
+[33mcommit eb5f124d28da0597cd38ad8b5ad7dab5e2adb327[m
+Author: mjk-hudson <83044152+mjk-hudson@users.noreply.github.com>
+Date:   Tue Sep 16 13:07:24 2025 -0400
+
+    Add files via upload
+    
+    Adding all portfolio related media.
+
+[33mcommit b6bc4245914abe5fcecca7c02db061807a8a7076[m
+Author: mjk-hudson <83044152+mjk-hudson@users.noreply.github.com>
+Date:   Tue Sep 16 13:06:15 2025 -0400
+
+    Create readme.md
+    
+    A media directory, along with a readme.md
+
+[33mcommit 8f713a2193b9afe45262729d8df79df66503a8eb[m
+Author: mjk-hudson <83044152+mjk-hudson@users.noreply.github.com>
+Date:   Tue Sep 16 13:01:14 2025 -0400
+
+    Add files via upload
+    
+    The main portfolio fiels.
+
+[33mcommit 65e7cc25e4da5e343d6687c8ea1c3ca17adfc2e5[m
+Author: mjk-hudson <83044152+mjk-hudson@users.noreply.github.com>
+Date:   Tue Sep 16 12:54:26 2025 -0400
+
+    Initial commit
